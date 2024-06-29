@@ -32,7 +32,8 @@ nav{
     justify-content: space-between;
     background-color: #2e2626;
     padding:0;
-    margin-bottom: 0;
+    color:white;
+    margin-bottom: 0px;
 }
 
 nav a{
@@ -125,3 +126,26 @@ main{
 
 /* footer style*/
 
+footer{
+    background-color: #2e2626;
+    text-align: center;
+    padding:5px 0px;
+    
+}
+.social-ikons{
+    display:flex;
+    justify-content: center;
+    background-color: #2e2626;
+    height: 25px;
+}
+
+.social-ikons li{
+    display: inline-block;
+    font-size: 1.2em;
+    margin-left: 30px;
+    padding: 5px;
+    color:white
+}
+footer p{
+    margin: 0;
+}
