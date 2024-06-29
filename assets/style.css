@@ -57,3 +57,10 @@ ul{
     padding: 2%;
 }
 
+.side-nav a:hover{
+    color:#9e1a1a;
+}
+
+#home :hover{
+color:#9e1a1a;
+}
