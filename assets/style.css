@@ -5,10 +5,10 @@ body {
     margin: 0%;
     border: none;
     box-sizing: border-box;
-    min-height:100vh;
-    display:flex;
-    flex-direction:column;
-    font-family:"Space Grotesk", sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: "Space Grotesk", sans-serif;
     color: #8b0b10;
 }
 
@@ -21,64 +21,65 @@ body {
     margin-left: 10px;
 }
 
-#home a{
+#home a {
     text-decoration: none;
-    color:#fffff0;;
+    color: #fffff0;
+    ;
 }
 
-nav{
+nav {
     width: 100%;
     height: 50px;
-    display:flex;
+    display: flex;
     align-items: center;
     justify-content: space-between;
     background-color: #2e2626;
-    padding:0;
-    color:white;
+    padding: 0;
+    color: white;
     margin-bottom: 0px;
 }
 
-nav a{
+nav a {
     color: #fffff0;
     text-decoration: none;
     display: block;
-    
+
 }
 
-ul{
+ul {
     list-style: none;
-    margin-right:0;
+    margin-right: 0;
     padding: 0;
 
 }
 
-.side-nav ul{
+.side-nav ul {
     display: flex;
     flex-direction: row;
     align-items: center;
 }
 
-.side-nav li{
+.side-nav li {
     padding: 20px;
 }
 
-.side-nav a:hover{
-    color:#9e1a1a;
+.side-nav a:hover {
+    color: #9e1a1a;
 }
 
-#home :hover{
-color:#9e1a1a;
+#home :hover {
+    color: #9e1a1a;
 }
 
 /* styling for main content*/
 
-main{
+main {
     background-color: #3c3636;
     flex: 1 0 auto;
     height: auto;
 }
 
-.poster{
+.poster {
     text-align: center;
     max-width: 100%;
     height: auto;
@@ -86,13 +87,13 @@ main{
     margin-top: 9px;
 }
 
-.poster img{
+.poster img {
     height: auto;
     width: 95%;
 }
 
-.play_block{
-    display:flex;
+.play_block {
+    display: flex;
     flex-direction: column;
     align-items: center;
     left: 50%;
@@ -101,7 +102,7 @@ main{
     top: 33vw;
 }
 
-.trailer-button{
+.trailer-button {
     background-color: #6a1212;
     color: #b7a7a7;
     width: 200px;
@@ -112,82 +113,86 @@ main{
     justify-content: center;
     font-size: 20px;
     border-radius: 2px;
-    
+
 }
 
-#theaters{
+#theaters {
     font-style: oblique;
     font-size: 150%;
     font-weight: 700;
     vertical-align: 10%;
     margin-bottom: 2vw;
 }
-.trailer-button:hover{
+
+.trailer-button:hover {
     background-color: #555;
 }
 
 /* footer style*/
 
-footer{
+footer {
     background-color: #2e2626;
     text-align: center;
-    padding:5px 0px;
-    
+    padding: 5px 0px;
+
 }
-.social-ikons{
-    display:flex;
+
+.social-ikons {
+    display: flex;
     justify-content: center;
     background-color: #2e2626;
     height: 25px;
 }
 
-.social-ikons li{
+.social-ikons li {
     display: inline-block;
     font-size: 1.2em;
     margin-left: 30px;
     padding: 5px;
-    color:white
+    color: white
 }
-footer p{
+
+footer p {
     margin: 0;
 }
 
-nav li a:hover{
+nav li a:hover {
     background-color: none;
 }
+
 /*styling for gallery page*/
-main{
-    display:block;
+main {
+    display: block;
     unicode-bidi: isolate;
     background-color: #3c3636;
     flex: 1 0 auto;
-    height:auto;
+    height: auto;
 }
 
-div{
+div {
     display: block;
     unicode-bidi: isolate;
 }
 
 .gallery {
-    display:flex;
-    flex-wrap:wrap;
+    display: flex;
+    flex-wrap: wrap;
     justify-content: center;
-    gap:10px;
-    padding:20px;
+    gap: 10px;
+    padding: 20px;
     flex-direction: row;
 }
 
 .gallery a {
-    display:block;
+    display: block;
     width: calc(30% - 10px);
-height: 15 0px;
-padding: 2px;
-margin: 0px;
+    height: 15 0px;
+    padding: 2px;
+    margin: 0px;
 }
 
-.gallery-item
-{ display: block;
+.gallery-item {
+    display: block;
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -197,12 +202,26 @@ margin: 0px;
 
 }
 
-.gallery-item:hover{transform: scale(1.1);}
+.gallery-item:hover {
+    transform: scale(1.1);
+}
 
 /*reset some default browser styles*/
 
-body, h1, h2,p,ul,li,a,img,form, label, input, textarea, button{
-    margin:0;
+body,
+h1,
+h2,
+p,
+ul,
+li,
+a,
+img,
+form,
+label,
+input,
+textarea,
+button {
+    margin: 0;
     padding: 0;
     border: 0;
 }
@@ -210,22 +229,24 @@ body, h1, h2,p,ul,li,a,img,form, label, input, textarea, button{
 /*style for synopsis page*/
 
 /*styling for poster section*/
-.container{
+.container {
     display: flex;
     flex-direction: row;
     width: 100vw;
-    height:100vh;
+    height: 100vh;
 }
-.poster2{
-    flex:1;
+
+.poster2 {
+    flex: 1;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding:2%;
+    padding: 2%;
 }
+
 .poster2 img {
     width: 100%;
-    height:auto;
+    height: auto;
     max-height: 100%;
 }
 
@@ -237,10 +258,11 @@ body, h1, h2,p,ul,li,a,img,form, label, input, textarea, button{
     justify-content: center;
     align-items: flex-start;
 }
-.content p{
+
+.content p {
     margin-bottom: 10px;
     font-size: 1.0em;
-    color:#e1c9c9;
+    color: #e1c9c9;
 }
 
-
+/*trailer astyling*/
