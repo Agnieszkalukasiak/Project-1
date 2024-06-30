@@ -9,7 +9,7 @@ body {
     display:flex;
     flex-direction:column;
     font-family:"Space Grotesk", sans-serif;
-    color: #9e1a1a;
+    color: #8b0b10;
 }
 
 
@@ -98,7 +98,7 @@ main{
     left: 50%;
     transform: translateX(-50%);
     position: absolute;
-    top: 30vw;
+    top: 33vw;
 }
 
 .trailer-button{
@@ -206,3 +206,41 @@ body, h1, h2,p,ul,li,a,img,form, label, input, textarea, button{
     padding: 0;
     border: 0;
 }
+
+/*style for synopsis page*/
+
+/*styling for poster section*/
+.container{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height:100vh;
+}
+.poster2{
+    flex:1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:2%;
+}
+.poster2 img {
+    width: 100%;
+    height:auto;
+    max-height: 100%;
+}
+
+.content {
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.content p{
+    margin-bottom: 10px;
+    font-size: 1.0em;
+    color:#e1c9c9;
+}
+
+
