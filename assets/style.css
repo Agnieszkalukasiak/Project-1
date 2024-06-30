@@ -11,6 +11,8 @@ body {
     font-family:"Space Grotesk", sans-serif;
     color: #9e1a1a;
 }
+
+
 /* styling for the header elements in nav bar*/
 
 #home {
@@ -148,4 +150,59 @@ footer{
 }
 footer p{
     margin: 0;
+}
+
+nav li a:hover{
+    background-color: none;
+}
+/*styling for gallery page*/
+main{
+    display:block;
+    unicode-bidi: isolate;
+    background-color: #3c3636;
+    flex: 1 0 auto;
+    height:auto;
+}
+
+div{
+    display: block;
+    unicode-bidi: isolate;
+}
+
+.gallery {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    gap:10px;
+    padding:20px;
+    flex-direction: row;
+}
+
+.gallery a {
+    display:block;
+    width: calc(30% - 10px);
+height: 15 0px;
+padding: 2px;
+margin: 0px;
+}
+
+.gallery-item
+{ display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+
+}
+
+.gallery-item:hover{transform: scale(1.1);}
+
+/*reset some default browser styles*/
+
+body, h1, h2,p,ul,li,a,img,form, label, input, textarea, button{
+    margin:0;
+    padding: 0;
+    border: 0;
 }
