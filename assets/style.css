@@ -279,11 +279,10 @@ button {
 
 iframe {
     position: absolute;
-    top: 5%;
+    top: 15%;
     left: 5%;
-    transform: translate(-50%, 50%);
     height: 100%;
-    width: 100%;
+    width: 90%;
 
 }
 
@@ -335,6 +334,10 @@ button {
     border: none;
     cursor: pointer;
     align-self: center;
+}
+
+button a {
+    text-decoration: none;
 }
 
 button:hover {

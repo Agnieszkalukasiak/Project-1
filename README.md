@@ -23,19 +23,19 @@ The landing page
 
 <!--PHOTO-->
 
+The	Trailer page
+
+•   On the trailer page, the user will have an opportunity to watch the official trailer for the movie.
+
+•  This section is valuable to the user as they will be able to easily identify what the movie is about, it's form and style, which will prompt them to want to watch it .
+
+<!--PHOTO-->
+
 The Synopsis page
 
 •   The synopsis section allows the user to quickly get an overview of the film's content and unique selling points while also being able to view the second official poster, providing a better idea of the film.
 	
 •	The user will understand the uniqueness of the form and the storyline of the film, which should encourage them to want to watch it.
-
-<!--PHOTO-->
-
-The Footer
-
-•	The footer includes links to the relevant social media sites for Animal Within. The links will open in a new tab to allow easy navigation for the user.
-	
-•	The footer encourages the user to stay updated about the film via social media, share it with their friends, and engage with the fan community.
 
 <!--PHOTO-->
 
@@ -47,19 +47,19 @@ Gallery
 
 <!--PHOTO-->
 
-Trailer
+Pr Inquiries
 
-•  The gallery will provide the user with images from Animal Within to give them a better feel for the movie.
+•   The press inquiry page provides a form where any press inquiries can be submitted by the user.
 
-•	This section is valuable to the user as they will be able to easily identify what type of film this is and get intrigued by the unique visual styling of the movie.
+•	This form allows media, distributors, and other interested parties to request press materials, interviews, and more information about the film. Once the inquiry is submitted, the relevant PR team will respond via email. This makes it easy for the media to contact the PR agents for the film and get the information and materials they need.
 
 <!--PHOTO-->
 
-Pr Inquiries
+The Footer
 
-•  The gallery will provide the user with images from Animal Within to give them a better feel for the movie.
-
-•	This section is valuable to the user as they will be able to easily identify what type of film this is and get intrigued by the unique visual styling of the movie.
+•	The footer includes links to the relevant social media sites for Animal Within. The links will open in a new tab to allow easy navigation for the user.
+	
+•	The footer encourages the user to stay updated about the film via social media, share it with their friends, and engage with the fan community.
 
 <!--PHOTO-->
 	
