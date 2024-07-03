@@ -14,47 +14,7 @@ Inquiries, and is identical on each page to make navigation easy.
 •   This navigation bar makes it easy to navigate from page to page without having to use the "back" button.
 
 <!--PHOTO-->
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
-
-The landing page 
-
-• The landing page includes a poster, the title, and a credit list. It also includes information about the "selected cinema release" and a button to allow the user to watch the trailer without having to go through the trouble of looking for it on the navigation bar, prompting a more instinctual navigation.
-
-• This section introduces Animal Within with an eye-catching poster to capture users attention and prompts the user to watch the trailer.
-
-<!--PHOTO-->
-
-The	Trailer page
-
-•   On the trailer page, the user will have an opportunity to watch the official trailer for the movie.
-
-•  This section is valuable to the user as they will be able to easily identify what the movie is about, it's form and style, which will prompt them to want to watch it .
-
-<!--PHOTO-->
-
-The Synopsis page
-
-•   The synopsis section allows the user to quickly get an overview of the film's content and unique selling points while also being able to view the second official poster, providing a better idea of the film.
-	
-•	The user will understand the uniqueness of the form and the storyline of the film, which should encourage them to want to watch it.
-
-<!--PHOTO-->
-
-Gallery
-
-•  The gallery, is a scroll down page, that will provide the user with images from Animal Within to give them a better feel for the movie.
-
-•	This section is valuable to the user as they will be able to easily identify what type of film this is and get intrigued by the unique visual styling of the movie.
-
-<!--PHOTO-->
-
-Pr Inquiries
-
-•   The press inquiry page provides a form where any press inquiries can be submitted by the user.
-
-•	This form allows media, distributors, and other interested parties to request press materials, interviews, and more information about the film. Once the inquiry is submitted, the relevant PR team will respond via email. This makes it easy for the media to contact the PR agents for the film and get the information and materials they need.
-
-<!--PHOTO-->
+![alt header](assets/Photo_readme/Header.png)
 
 The Footer
 
@@ -63,6 +23,53 @@ The Footer
 •	The footer encourages the user to stay updated about the film via social media, share it with their friends, and engage with the fan community.
 
 <!--PHOTO-->
+![alt footer](assets/Photo_readme/Footer.png)
+
+The landing page 
+
+• The landing page includes a poster, the title, and a credit list. It also includes information about the "selected cinema release" and a button to allow the user to watch the trailer without having to go through the trouble of looking for it on the navigation bar, prompting a more instinctual navigation.
+
+• This section introduces Animal Within with an eye-catching poster to capture users attention and prompts the user to watch the trailer.
+
+<!--PHOTO-->
+![alt header](assets/Photo_readme/Header.png/ )
+
+The	Trailer page
+
+•   On the trailer page, the user will have an opportunity to watch the official trailer for the movie.
+
+•  This section is valuable to the user as they will be able to easily identify what the movie is about, it's form and style, which will prompt them to want to watch it .
+
+<!--PHOTO-->
+![alt landing_page](assets/Photo_readme/home.png)
+
+The Synopsis page
+
+•   The synopsis section allows the user to quickly get an overview of the film's content and unique selling points while also being able to view the second official poster, providing a better idea of the film.
+	
+•	The user will understand the uniqueness of the form and the storyline of the film, which should encourage them to want to watch it.
+
+<!--PHOTO-->
+![alt synopsis](assets/Photo_readme/synopsis.png)
+
+Gallery
+
+•  The gallery, is a scroll down page, that will provide the user with images from Animal Within to give them a better feel for the movie.
+
+•	This section is valuable to the user as they will be able to easily identify what type of film this is and get intrigued by the unique visual styling of the movie.
+
+<!--PHOTO-->
+![alt gallery](assets/Photo_readme/gallery.png)
+
+Pr Inquiries
+
+•   The press inquiry page provides a form where any press inquiries can be submitted by the user.
+
+•	This form allows media, distributors, and other interested parties to request press materials, interviews, and more information about the film. Once the inquiry is submitted, the relevant PR team will respond via email. This makes it easy for the media to contact the PR agents for the film and get the information and materials they need.
+
+<!--PHOTO-->
+![alt pr_inquiries](assets/Photo_readme/press.png)
+
 	
 •	Features Left to Implement
 
