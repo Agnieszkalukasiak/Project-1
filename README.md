@@ -8,8 +8,7 @@ Existing Features
 
 Navigation Bar
 
-•   Featured on all five pages, the responsive navigation bar includes links to the Home page, Synopsis, Trailer, Gallery, and PR   
-Inquiries, and is identical on each page to make navigation easy.
+•   Featured on all five pages, the responsive navigation bar includes links to the Home page, Synopsis, Trailer, Gallery, and PR inquiries, and is identical on each page to make navigation easy.
 
 •   This navigation bar makes it easy to navigate from page to page without having to use the "back" button.
 
@@ -71,12 +70,10 @@ Pr Inquiries
 ![alt pr_inquiries](assets/Photo_readme/press.png)
 
 	
-•	Features Left to Implement
+Features Left to Implement
 
 •	Adding another official trailer.
 Adding a form where the user can enter their location to find out which cinemas in their city are playing the film and when.
-
-
 
 Testing
 
@@ -98,10 +95,7 @@ There are no unfixed buggs.
 
 Deployment
 
-•	The site was deployed to GitHub pages. The steps to deploy are as follows:
-•	In the GitHub repository, navigate to the Settings tab
-•	From the source section drop-down menu, select the Master Branch
-•   Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+•	The site was deployed to GitHub pages. 
 
 The live link can be found here : https://agnieszkalukasiak.github.io/Project-1/index.html
 
@@ -112,6 +106,8 @@ CREDITS
 •   Asked ChatGPT for help with the code to scale the poster and make it responsive, but had to alter that code.
 •   The code for positioning: https://stackoverflow.com/questions/5222523/position-a-div-container-on-the-right-side
 •   The code for adding photos to read me : https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository
+
+•   Got help from the Code Institute Slack community.
 
 Content
 •	The text from the synopsis page was written for the film by Kurban Kassam.
