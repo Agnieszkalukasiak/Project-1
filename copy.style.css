@@ -266,8 +266,6 @@ button {
     overflow:hidden;
     width:fit-content
    float:left; 
-    
-    
 }
 
 .content p {
@@ -296,7 +294,7 @@ button {
 iframe {
     position: absolute;
     top: 5%;
-    left: 20%;
+    left: 15%;
     height: 80%;
     width: 60%;
 

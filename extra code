@@ -1,2 +1,19 @@
 <iframe> width="560" height="315" 
 /* you tube settings*/
+
+
+.poster2 {
+    flex: 1;
+    display: flex;
+   align-items: left;
+    justify-content: center;
+    padding: 2%;
+    flex-direction: column;
+    float:right;
+}
+
+.poster2 img {
+    width: auto;
+    height: auto;
+    max-height: 90%;
+    
