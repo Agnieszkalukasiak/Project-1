@@ -114,8 +114,8 @@ The live link can be found here : https://agnieszkalukasiak.github.io/Project-1/
 - Asked ChatGPT for help with the code to scale the poster and make it responsive, but had to alter that code.
 - The code for positioning: https://stackoverflow.com/questions/5222523/position-a-div-container-on-the-right-side
 - The code for adding photos to read me : https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository
-
 - Got help from the Code Institute Slack community.
+- got help with wrap code:https://stackoverflow.com/questions/5222523/position-a-div-container-on-the-right-side
 
 ### Content
 - The text from the synopsis page was written for the film by Kurban Kassam.
