@@ -85,14 +85,18 @@ The social media links are currently linked to my private accounts or just to th
 ### Validator Testing
 
 #### HTML
-- No errors were returned when passing through the official W3C validator.
+- No errors were returned when passing through the official W3C validator, except the ones described in the bug section bellow.
+
 Link to validation:
 Landing page: https://validator.w3.org/nu/?doc=https%3A%2F%2Fagnieszkalukasiak.github.io%2FProject-1%2Findex.html
 
 Synopsis page: https://validator.w3.org/nu/?doc=https%3A%2F%2Fagnieszkalukasiak.github.io%2FProject-1%2Fsynopsis.html
 
 Galery page: 
-Trailer page:
+
+Trailer page: https://validator.w3.org/nu/?doc=https%3A%2F%2Fagnieszkalukasiak.github.io%2FProject-1%2Ftrailer.html
+
+Press page: https://validator.w3.org/nu/?doc=https%3A%2F%2Fagnieszkalukasiak.github.io%2FProject-1%2Fpress.html
 
 #### CSS
 - No errors were found when passing through the official (Jigsaw) validator.
