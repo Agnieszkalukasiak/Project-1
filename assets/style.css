@@ -318,7 +318,7 @@ iframe {
     left: 20%;
     height: 80%;
     width: 60%;
-
+    border-style: none;
 }
 
 /*styling for press page*/
