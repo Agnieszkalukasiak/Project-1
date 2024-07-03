@@ -184,9 +184,8 @@ div {
 .gallery a {
     display: block;
     width: calc(30% - 10px);
-    height: 15 0px;
     padding: 2px;
-    margin: 0px;
+    
 }
 
 .gallery-item {
