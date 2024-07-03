@@ -87,8 +87,11 @@ The social media links are currently linked to my private accounts or just to th
 #### HTML
 - No errors were returned when passing through the official W3C validator.
 Link to validation:
-Landing page: https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&checkerrorpages=yes&useragent=Validator.nu%2FLV+https%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fagnieszkalukasiak.github.io%2FProject-1%2Findex.html
+Landing page: https://validator.w3.org/nu/?doc=https%3A%2F%2Fagnieszkalukasiak.github.io%2FProject-1%2Findex.html
 
+Synopsis page: https://validator.w3.org/nu/?doc=https%3A%2F%2Fagnieszkalukasiak.github.io%2FProject-1%2Fsynopsis.html
+
+Galery page: 
 Trailer page:
 
 #### CSS
