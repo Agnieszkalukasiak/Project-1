@@ -147,8 +147,7 @@ footer {
 .social-ikons {
     display: flex;
     justify-content: center;
-    background-color: #2e2626;
-    height: 25px;
+    background-color: #2e2626;   
 }
 
 .social-ikons li {
@@ -158,7 +157,9 @@ footer {
     padding: 5px;
     color: white
 }
-
+.social-ikons li img{
+    height: 35px;
+}
 footer p {
     margin: 0;
 }
