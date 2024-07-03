@@ -229,13 +229,14 @@ button {
 
 /*style for synopsis page*/
 
-/*styling for poster section*/
+/*styling for the entire page */
 .container {
     display: flex;
     flex-direction: row;
     width: 100vw;
     height: 90vh;
 }
+/* styling for the poster section*/
 
 .poster2 {
     flex: 1;
@@ -243,13 +244,18 @@ button {
     align-items: left;
     justify-content: center;
     padding: 2%;
+    float:right;
+    flex-direction: column;
+    
 }
 
 .poster2 img {
     width: auto;
     height: auto;
     max-height: 90%;
+    
 }
+/*styling for the text section*/
 
 .content {
     flex: 1;
@@ -257,9 +263,8 @@ button {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: right;
     max-height: 90%;
-    overflow: hidden;
+    float:left;
     width:fit-content
 }
 
@@ -268,7 +273,11 @@ button {
     margin-right:15%;
     font-size: 1.0em;
     color: #e1c9c9;
+    overflow: hidden;
+   
 }
+
+
 
 /*trailer styling*/
 
