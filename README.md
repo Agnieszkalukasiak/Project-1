@@ -14,6 +14,7 @@ Inquiries, and is identical on each page to make navigation easy.
 •   This navigation bar makes it easy to navigate from page to page without having to use the "back" button.
 
 <!--PHOTO-->
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
 
 The landing page 
 
@@ -41,7 +42,7 @@ The Synopsis page
 
 Gallery
 
-•  The gallery will provide the user with images from Animal Within to give them a better feel for the movie.
+•  The gallery, is a scroll down page, that will provide the user with images from Animal Within to give them a better feel for the movie.
 
 •	This section is valuable to the user as they will be able to easily identify what type of film this is and get intrigued by the unique visual styling of the movie.
 
@@ -102,6 +103,8 @@ CREDITS
 •   The code for scaling video files: https://www.w3schools.com/css/css_rwd_videos.asp
 •   Got help from my mentor, Moritz Wach.
 •   Asked ChatGPT for help with the code to scale the poster and make it responsive, but had to alter that code.
+•   The code for positioning: https://stackoverflow.com/questions/5222523/position-a-div-container-on-the-right-side
+•   The code for adding photos to read me : https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository
 
 Content
 •	The text from the synopsis page was written for the film by Kurban Kassam.
