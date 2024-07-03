@@ -84,10 +84,14 @@ The social media links are currently linked to my private accounts or just to th
 
 ### Validator Testing
 
-- HTML
-- No errors were returned when passing through the official W3C validator
--  CSS
-- No errors were found when passing through the official (Jigsaw) validator
+#### HTML
+- No errors were returned when passing through the official W3C validator.
+Link to validation:
+
+#### CSS
+- No errors were found when passing through the official (Jigsaw) validator.
+Link to validation:
+https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fagnieszkalukasiak.github.io%2FProject-1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
 
 ### Unfixed Bugs
 
