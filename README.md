@@ -40,7 +40,7 @@ The Animal Within official website is dedicated to promoting the film and provid
 - This section is valuable to the user as they will be able to easily identify what the movie is about, it's form and style, which will prompt them to want to watch it .
 
 <!--PHOTO-->
-![trailer_page](assets/Photo_readme/trailer.png)
+![trailer_page](assets/Photo_readme/gallery.png)
 
 ### The Synopsis page
 
