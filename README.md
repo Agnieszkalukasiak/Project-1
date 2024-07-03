@@ -92,7 +92,7 @@ Landing page: https://validator.w3.org/nu/?doc=https%3A%2F%2Fagnieszkalukasiak.g
 
 Synopsis page: https://validator.w3.org/nu/?doc=https%3A%2F%2Fagnieszkalukasiak.github.io%2FProject-1%2Fsynopsis.html
 
-Galery page: 
+Galery page: https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fagnieszkalukasiak.github.io%2FProject-1%2Fgallery.html
 
 Trailer page: https://validator.w3.org/nu/?doc=https%3A%2F%2Fagnieszkalukasiak.github.io%2FProject-1%2Ftrailer.html
 
