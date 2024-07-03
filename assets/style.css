@@ -207,7 +207,7 @@ div {
     display: block;
     width: calc(30% - 10px);
     padding: 2px;
-    min-width: 400px;
+    min-width: 300px;
 
 
 }
