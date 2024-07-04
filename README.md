@@ -139,4 +139,3 @@ The live link can be found here : https://agnieszkalukasiak.github.io/Project-1/
 - Trailer video taken from open source: YouTube.
 - The icons in the footer were taken from Buffer Library.
 
-

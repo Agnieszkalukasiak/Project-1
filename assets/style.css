@@ -12,7 +12,6 @@ body {
     color: #8b0b10;
 }
 
-
 /* styling for the header elements in nav bar*/
 
 #home {
@@ -239,15 +238,12 @@ button {
 
 /*style for synopsis page*/
 
-/*styling for the entire page */
 .container {
     display: flex;
     flex-direction: row;
     width: 100vw;
     flex-wrap: wrap;
 }
-
-/* styling for the poster section*/
 
 .poster2 {
     flex: 1 0 0;
@@ -258,12 +254,10 @@ button {
 }
 
 .poster2 img {
-    width: 85%;
+    width: 80%;
     height: auto;
     object-fit: contain;
 }
-
-/*styling for the text section*/
 
 .content {
     flex: 1 0 0;
@@ -278,11 +272,9 @@ button {
 .content p {
     margin-bottom: 10px;
     margin-right: 10%;
-    margin-left: 5%;
+    margin-left: 10%;
     color: #e1c9c9;
 }
-
-
 
 /*trailer styling*/
 
