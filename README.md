@@ -105,7 +105,7 @@ https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fagnieszkalukasia
 
 ### Unfixed Bugs
 
-There are bugs on the trailer <iframe> provided by YouTube for embedding their videos. These bugs are introduced by YouTube, and this code is the only one that enables the use of the video on this page.
+There are no bugs.
 
 ### Deployment
 
